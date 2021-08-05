@@ -4,6 +4,6 @@
   - Include semantic markup, such as a navbar
 
 This is my portfolio webpage:
-![alt text](https://github.com/jdeschat/Museum-of-Candy/blob/main/imgs/Museum_of_candy.jpg)
+![alt text](https://github.com/jdeschat/Museum-of-Candy/blob/master/imgs/Museum_of_candy.jpg)
 
 Published at: https://jdeschat.github.io/Museum-of-Candy/
